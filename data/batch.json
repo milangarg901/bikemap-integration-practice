@@ -1,0 +1,14 @@
+[
+  {
+    "name": "saturday",
+    "ride": "canal.geojson"
+  },
+  {
+    "name": "skills-clinic",
+    "ride": "short.geojson"
+  },
+  {
+    "name": "sunday",
+    "ride": "canal.geojson"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [{"type": "Feature", "properties": {"ride": "short"}, "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [77.214,28.618],
+      [77.216,28.616],
+      [77.216,28.616],
+      [77.221,28.616],
+      [77.222,28.617]
+    ]
+  }}]
+}
